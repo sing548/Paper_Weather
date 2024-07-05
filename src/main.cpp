@@ -12,14 +12,8 @@
 #include <Fonts/FreeMonoBold18pt7b.h>
 
 #include "GxEPD2_display_selection_new_style.h"
+#include <values.h>
 
-const char* ssid = "";
-const char* password = "";
-String newHostName = "ESP_1_54_Paper";
-
-const char* outside = "";
-const char* inside = "";
-const char* box = "";
 
 const String tempOutsideStr = "A:";
 const String tempInsideStr = "I:";
